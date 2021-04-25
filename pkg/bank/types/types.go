@@ -28,7 +28,7 @@ type Card struct {
 	Color      string
 	Name       string
 	Active     bool
-}
+} 
 
 // // Category
 // type Category string
